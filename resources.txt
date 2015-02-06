@@ -5,3 +5,6 @@ http://shop.oreilly.com/product/0636920024774.do
 Ruby Gems: www.ruby-toolbox.com
 
 Wikipedia: http://en.wikipedia.org/wiki/Git_(software)
+
+
+Git in England: http://en.wikipedia.org/wiki/Git_%28slang%29
